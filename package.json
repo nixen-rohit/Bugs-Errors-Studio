@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-table-app",
+  "version": "1.0.0",
+  "description": "Full-stack employee data table with infinite scrolling, advanced filtering, and sorting",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "nodejs",
+    "infinite-scroll",
+    "filtering",
+    "sorting",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "MIT"
+}
