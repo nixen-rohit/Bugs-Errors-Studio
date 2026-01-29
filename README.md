@@ -15,14 +15,14 @@ After this you need two terminal
 
 ### For Backend 
 ```bash
-cd main
+ 
 cd backend
 npm install 
 ```
 
 ### For Frontend 
 ```bash
-cd main
+ 
 cd frontend 
 npm install
 ```
